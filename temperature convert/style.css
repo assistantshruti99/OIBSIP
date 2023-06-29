@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  label {
+    font-weight: bold;
+  }
+  input[type="text"], select {
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  #result {
+    font-size: 18px;
+    margin-top: 20px;
+  }
